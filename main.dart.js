@@ -61258,7 +61258,7 @@ o=q.gap()
 q=A.a(q.a,a3).a
 q=A.i5(a2,A.b0(a2,a2,a2,B.eG,5000*$.t().gH(),a2,a2,a2,1280*(o/q)),a2,a2,a2,a2,0,a2)
 o=a1.f
-n=o<=1550*$.t().gH()?"1.png":"2.png"
+n=o<=1550*$.t().gH()?"white.png":"dark.png"
 o=A.i5(a2,A.DG(n,700*$.t().gH()),a2,a2,a2,a2,100+o,a2)
 n=$.t().gH()
 m=$.t()
@@ -61305,7 +61305,7 @@ b=$.t()
 c=b.gap()
 b=A.a(b.a,a3).a
 d=$.t()
-s=A.ahw(A.bs(A.kG(B.Q,A.b([q,o,n,m,A.i5(a2,A.b0(a2,A.dE(A.b([a,A.b0(B.Q,A.f2(A.DG("logoEasy.png",300*(d.gap()/A.a(d.a,a3).a)),a2,a2),a2,a2,a2,a2,a2,a2,1280*(c/b)/2)],p),B.C,a2,B.G,B.u),a2,new A.cH(B.n,a2,a2,a2,j,a2,B.X),900*a0,a2,a2,a2,1280*(g/h)),a2,a2,a2,a2,0,a2)],p),B.bb),5000*r,a2),s)
+s=A.ahw(A.bs(A.kG(B.Q,A.b([q,o,n,m,A.i5(a2,A.b0(a2,A.dE(A.b([a,A.b0(B.Q,A.f2(A.DG("logoeasy.png",300*(d.gap()/A.a(d.a,a3).a)),a2,a2),a2,a2,a2,a2,a2,a2,1280*(c/b)/2)],p),B.C,a2,B.G,B.u),a2,new A.cH(B.n,a2,a2,a2,j,a2,B.X),900*a0,a2,a2,a2,1280*(g/h)),a2,a2,a2,a2,0,a2)],p),B.bb),5000*r,a2),s)
 r=$.t()
 h=r.gap()
 r=A.a(r.a,a3).a
