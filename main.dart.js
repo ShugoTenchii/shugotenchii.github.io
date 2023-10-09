@@ -41468,7 +41468,7 @@ f=$.B()
 d=f.gaw()
 f=f.a
 f===$&&A.a()
-f=A.b5(b1,A.oY("f\xe9v 2021\noct 2021","- D\xe9veloppement de fichier json \n- Refonte d'une application multiplateforme en Flutter/Dart",170,"D\xe9veloppeur support pour EY-Agency","Mes t\xe2che et mission :"),b1,b1,b1,b1,new A.ap(0,0,0,20*e),new A.ap(300*(o/p.a),0,0,0),1280*(d/f.a))
+f=A.b5(b1,A.oY("f\xe9v 2021\noct 2021","- D\xe9veloppement de fichier json \n- Refonte d'une application multiplateforme en Flutter/Dart",170,"D\xe9veloppeur support pour EY-Agency",""),b1,b1,b1,b1,new A.ap(0,0,0,20*e),new A.ap(300*(o/p.a),0,0,0),1280*(d/f.a))
 d=$.B().gY()
 p=$.B()
 o=p.gaw()
